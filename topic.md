@@ -14,13 +14,12 @@ devops
 https://pdos.csail.mit.edu/6.824/schedule.html
 SQL Database
 Message Queue
-book: Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
+book: (DDIA)Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
 SpringBoot
 NATS.io Cloud-native MQ
-Clean Architecure
+Clean Architecture
 book: Crafting Interpreters
 Linux
-Book: The Linux Programming Interface
 Book:Latency: Reduce delay in software systems by Pekka Enberg
 Book: designing data-intensive applications by martin kleppmann
 Book: Why Programs Fail, A Guide to Systematic Debugging
